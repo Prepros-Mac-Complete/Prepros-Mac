@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/edition-Professional-yellow?style=flat" alt="edition"/></a>
 <a href="#"><img src="https://img.shields.io/badge/system-macOS-blue?style=flat" alt="system"/></a>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWq07jwWpil7c-7MtBzg_NO14ZnVx7jdXaDw&s" width="824" alt="Interface"/>
+<img src="https://prepros.io/assets/home/upload-mac.png" width="824" alt="Interface"/>
 
 </div>
 
